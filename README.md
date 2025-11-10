@@ -8,7 +8,7 @@ It reads user information such as name, age, address, city, state, zip code, and
 ## 📂 Files
 
 - [`CreateNewUser.java`](./CreateNewUser.java) — main source code file containing the program logic.  
-- [`TestCase.md`](./TestCase.md) — contains example test cases demonstrating how the program behaves with different inputs.
+- [`SampleOutput.md`](./SampleOutput.md) — contains example case demonstrating how the program looks when running.
 
 ---
 
@@ -31,7 +31,7 @@ After all transformations, the program removes the characters `'O'`, `'o'`, `'I'
 
 ## ⚙️ How It Works (Step-by-Step Example)
 
-You can find sample test inputs and outputs in [`TestCase.md`](./TestCase.md),  
+You can find sample test inputs and outputs in [`SampleOutput.md`](./SampleOutput.md),  
 but here’s a general overview of the process:
 
 1. Program prompts the user for input values.
