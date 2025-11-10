@@ -54,8 +54,9 @@ The Assigned User String is 59006HMLE1234elmstreetCLE02000-4600
 ## 🎬 Behind The Scenes 
 ### This helps to visualize what the computer is processing!
 
-####First Name:
+---
 
+### First Name:
 
 firstName = "ALEXANDER"
 
@@ -65,9 +66,9 @@ secondLast = firstName.charAt(firstName.length() - 2) = 'E'
 
 name1 = "LE"
 
+---
 
-- Last Name:
-
+### Last Name:
 
 lastName = "HAMILTON"
 
@@ -79,33 +80,33 @@ name2 = "HM"
 
 name = name2 + name1 = "HMLE"
 
+---
 
-- Age:
-
+### Age:
 
 digitSum = 2 + 4 = 6
 
 age = String.format("%03d", digitSum) = "006"
 
+---
 
-- Street Address:
-
+### Street Address:
 
 streetAddress = "1234 Elm Street"
 
 address = streetAddress.toLowerCase().replace(" ", "") = "1234elmstreet"
 
+---
 
-- City:
-
+### City:
 
 customerCity = "CLEVELAND"
 
 city = customerCity.substring(0, 3) = "CLE"
 
+---
 
-- State:
-
+### State:
 
 customerState = "OH"
 
@@ -121,9 +122,9 @@ mod = 1 * 2 = 2
 
 state = String.format("%02d", mod) = "02"
 
+---
 
-- ZIP Code:
-
+### ZIP Code:
 
 digits = 4,4,1,1,0
 
@@ -131,19 +132,17 @@ code = (4*4*1*1*0) % 100 = 0
 
 zipCode = String.format("%03d", 0) = "000"
 
+---
 
-
-- Phone Number:
-
+### Phone Number:
 
 number = last 4 digits = "4600"
 
 phoneNumber = "-" + number = "-4600"
 
+---
 
-
-- Total Input + Assemble Final String:
-
+### Total Input + Assemble Final String:
   
 inputLength = length of all inputs
 
@@ -153,9 +152,9 @@ user = inputLength + age + name + address + city + state + zipCode + phoneNumber
 
 user = "59006HMLE1234elmstreetCLE02000-4600"
 
+---
 
-- Removes "o", "O", "I", "i":
-
+### Removes "o", "O", "I", "i":
   
 removed = user.replace("O","").replace("o","").replace("I","").replace("i","")
 
