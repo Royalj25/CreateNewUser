@@ -52,7 +52,7 @@ The Assigned User String is 59006HMLE1234elmstreetCLE02000-4600
 ---
 
 ## 🎬 Behind The Scenes 
-// First Name:
+- First Name:
 
 
 firstName = "ALEXANDER"
@@ -64,7 +64,7 @@ secondLast = firstName.charAt(firstName.length() - 2) = 'E'
 name1 = "LE"
 
 
-// Last Name:
+- Last Name:
 
 
 lastName = "HAMILTON"
