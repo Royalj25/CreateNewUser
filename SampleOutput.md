@@ -7,35 +7,35 @@ This file shows a **sample run** of the `CreateNewUser` program, including examp
 ## Sample Input & Output
 Enter Customer First Name:
 
-Alexander
+"Alexander"
 
 Enter Customer Last Name:
 
-Hamilton
+"Hamilton"
 
 Enter Customer Age:
 
-24
+"24"
 
 Enter Customer Street Address:
 
-1234 Elm Street
+"1234 Elm Street"
 
 Enter Customer City:
 
-Cleveland
+"Cleveland"
 
 Enter Customer State:
 
-OH
+"OH"
 
 Enter Customer Zip Code:
 
-44110
+"44110"
 
 Enter Customer Phone Number:
 
-7654944600
+"7654944600"
 
 The Assigned User String is 59006HMLE1234elmstreetCLE02000-4600
 
@@ -53,38 +53,71 @@ The Assigned User String is 59006HMLE1234elmstreetCLE02000-4600
 
 ## 🎬 Behind The Scenes 
 // First Name:
+
+
 firstName = "ALEXANDER"
+
 second = firstName.charAt(1) = 'L'
+
 secondLast = firstName.charAt(firstName.length() - 2) = 'E'
+
 name1 = "LE"
 
+
 // Last Name:
+
+
 lastName = "HAMILTON"
+
 first = lastName.charAt(0) = 'H'
+
 third = lastName.charAt(2) = 'M'
+
 name2 = "HM"
+
 name = name2 + name1 = "HMLE"
 
 // Age:
+
+
 digitSum = 2 + 4 = 6
+
 age = String.format("%03d", digitSum) = "006"
 
+
 // Street Address:
+
+
 streetAddress = "1234 Elm Street"
+
 address = streetAddress.toLowerCase().replace(" ", "") = "1234elmstreet"
 
+
 // City:
+
+
 customerCity = "CLEVELAND"
+
 city = customerCity.substring(0, 3) = "CLE"
 
+
 // State:
+
+
 customerState = "OH"
+
 firstChar = 'O' = 79
+
 secondChar = 'H' = 72
+
 mod6 = 79 % 6 = 1
+
 mod5 = 72 % 5 = 2
+
 mod = 1 * 2 = 2
+
 state = String.format("%02d", mod) = "02"
+
 
 // ZIP Code:
 digits = 4,4,1,1,0
