@@ -6,22 +6,39 @@ This file shows a **sample run** of the `CreateNewUser` program, including examp
 
 ## Sample Input & Output
 Enter Customer First Name:
+
 Alexander
+
 Enter Customer Last Name:
+
 Hamilton
+
 Enter Customer Age:
+
 24
+
 Enter Customer Street Address:
+
 1234 Elm Street
+
 Enter Customer City:
+
 Cleveland
+
 Enter Customer State:
+
 OH
+
 Enter Customer Zip Code:
+
 44110
+
 Enter Customer Phone Number:
+
 7654944600
+
 The Assigned User String is 59006HMLE1234elmstreetCLE02000-4600
+
 
 
 ---
