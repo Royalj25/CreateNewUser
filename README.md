@@ -40,6 +40,8 @@ but here’s a general overview of the process:
 4. Certain characters are removed to ensure uniqueness and avoid confusion.
 5. The resulting string is printed as the **Assigned User String**.
 
+---
+
 ## 👀 Did you check out `HobbyRecommender` yet?
 - Here is an easier way to get there --> [`HobbyRecommender`](https://github.com/Royalj25/HobbyRecommender.git)
 - Wanna get back to the main repository? --> [`Portfolio`](https://github.com/Royalj25/Portfolio.git)
