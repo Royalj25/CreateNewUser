@@ -41,5 +41,5 @@ but here’s a general overview of the process:
 5. The resulting string is printed as the **Assigned User String**.
 
 ## 👀 Did you check out my Hobby **Recommender** yet?
-- Here is an easier way to get there --> [`HobbyRecommender`](./HobbyRecommender.java)
+- Here is an easier way to get there --> [`HobbyRecommender`](https://github.com/Royalj25/HobbyRecommender.git)
 - Wanna get back to the main repository? --> [`Portfolio`](https://github.com/Royalj25/Portfolio.git)
