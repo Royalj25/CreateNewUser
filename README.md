@@ -1,7 +1,7 @@
 # 🧩 CreateNewUser
 
-This program generates a unique **User String** based on customer input.  
-It reads user information such as name, age, address, city, state, zip code, and phone number from the console, then performs a series of **string manipulations** and **numeric operations** to produce a coded user identifier.
+This program generates a unique **User String** based on customer input. It reads user information such as name, age, address, city, state, zip code, and phone number 
+from the console, then performs a series of **string manipulations** and **numeric operations** to produce a coded user identifier.
 
 ---
 
