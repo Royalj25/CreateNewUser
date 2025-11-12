@@ -39,3 +39,7 @@ but here’s a general overview of the process:
 3. All parts are concatenated into one long, encoded user identifier.
 4. Certain characters are removed to ensure uniqueness and avoid confusion.
 5. The resulting string is printed as the **Assigned User String**.
+
+## 👀 Did you check out my Hobby **Recommender** yet?
+- Here is an easier way to get there --> [`HobbyRecommender`](./HobbyRecommender.java)
+- Wanna get back to the main repository? --> [`Portfolio`](https://github.com/Royalj25/Portfolio.git)
