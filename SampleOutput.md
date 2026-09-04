@@ -159,3 +159,10 @@ user = "59006HMLE1234elmstreetCLE02000-4600"
 removed = user.replace("O","").replace("o","").replace("I","").replace("i","")
 
 removed = "59006HMLE1234elmstreetCLE02000-4600"
+
+---
+
+## 🧪 Want to Test My Code?
+Ready to see my code in action? -->
+[Click here to learn how!](https://github.com/Royalj25/HowToTestMyCode) <--
+
