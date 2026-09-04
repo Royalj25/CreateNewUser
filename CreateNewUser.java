@@ -2,12 +2,11 @@ import java.util.Locale;
 import java.util.Scanner;
 
 /**
- * HW-03 -- CreateNewUser
  *
  * This program takes in input from System.in
  * performs string manipulation and returns a user String
  *
- * @author Jaiah Royal, L27
+ * @author Jaiah Royal
  *
  * @version Aug 19, 2025
  *
